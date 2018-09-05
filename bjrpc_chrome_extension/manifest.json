@@ -5,7 +5,7 @@
   "manifest_version": 2,
   "content_scripts": [
     {
-      "matches": ["http://keith-wood.name/realPersonBasics.html", "http://keith-wood.name/realPerson.html"],
+      "matches": ["http://keith-wood.name/realPersonBasics.html", "https://www.myasnb.com.my/uh/subscribeAddMoreUnits/pepExceedConfirm", "https://www.myasnb.com.my/uh/subscribeAddMoreUnits/confirmForTransaction", "https://www.myasnb.com.my/uh/minorTransaction/pepExceedConfirm", "https://www.myasnb.com.my/uh/minorTransaction/confirmForTransaction"],
       "js": ["bjrpc.js"],
       "run_at": "document_end",
       "all_frames": true
