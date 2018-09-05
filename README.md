@@ -25,6 +25,5 @@ Note: The extension does not currently work for the fields on the "Options" tab 
 
 The following items will enhance this exploit:
 1. Add functionality to work for different length captchas.
-2. Add functionality to parse for numbers.
-3. Add functionality to parse for other types of dots.
-4. Add different browser extension/plugin versions.
+2. Add functionality to parse for other types of dots.
+3. Add different browser extension/plugin versions.
